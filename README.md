@@ -11,5 +11,5 @@ STAGES
 2. Using an interrupt to obtain a threshold for movement
 3. Creating a dance routine
 4. Creating a simple dance with the stabilizer
-5.2. Dance routine with BlueTooth
+5.2 Dance routine with BlueTooth
 6. Automatic dance routine with no stabilizers
